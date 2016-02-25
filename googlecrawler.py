@@ -1,9 +1,3 @@
-#-*- coding: utf-8 -*-
-#
-# Create by Meibenjin. 
-#
-# Last updated: 2013-04-02
-#
 # google search results crawler 
 
 import sys
